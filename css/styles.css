@@ -4,3 +4,30 @@ border-top-style: dotted;
 width: 5%;
 border-width: 7px;
 border-color: #F9F9F9;}
+h1{
+  color: #557C55;
+}
+h2{
+  color: #557C55;
+}
+h3{
+  color: #557C55;
+}
+p{
+  color: #355764;
+}
+td{
+  color: #355764;
+}
+h4{
+  color: #557C55;
+}
+label{
+  color: #355764;
+}
+li{
+  color: #355764;
+}
+em{
+  color: #557C55;
+}
